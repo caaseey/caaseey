@@ -1,6 +1,3 @@
-#Hi there 👋
-I'm Casey Cleto, a passionate computer science student!
-
 # 💫 About Me:
 🔭 I’m currently working on personal projects in web development with HTML&CSS and coding challenges with Java.<br>👯 I’m looking to collaborate on web development projects, especially frontend.<br>🤝 I’m looking for help with improving my problem-solving skills.<br>🌱 I’m currently learning Java, PHP, HTML, CSS.
 
